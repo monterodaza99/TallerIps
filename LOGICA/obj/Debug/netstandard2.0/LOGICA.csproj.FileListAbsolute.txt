@@ -1,0 +1,39 @@
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\obj\Debug\netstandard2.0\LOGICA.csprojAssemblyReference.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\obj\Debug\netstandard2.0\LOGICA.AssemblyInfoInputs.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\obj\Debug\netstandard2.0\LOGICA.AssemblyInfo.cs
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\bin\Debug\netstandard2.0\LOGICA.deps.json
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\bin\Debug\netstandard2.0\LOGICA.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\bin\Debug\netstandard2.0\LOGICA.pdb
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\bin\Debug\netstandard2.0\Datos.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\bin\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\bin\Debug\netstandard2.0\Datos.pdb
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\bin\Debug\netstandard2.0\ENTITY.pdb
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\obj\Debug\netstandard2.0\LOGICA.csproj.CopyComplete
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\obj\Debug\netstandard2.0\LOGICA.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\LOGICA\obj\Debug\netstandard2.0\LOGICA.pdb
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\bin\Debug\netstandard2.0\LOGICA.deps.json
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\bin\Debug\netstandard2.0\LOGICA.dll
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\bin\Debug\netstandard2.0\LOGICA.pdb
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\obj\Debug\netstandard2.0\LOGICA.csprojAssemblyReference.cache
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\obj\Debug\netstandard2.0\LOGICA.AssemblyInfoInputs.cache
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\obj\Debug\netstandard2.0\LOGICA.AssemblyInfo.cs
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\obj\Debug\netstandard2.0\LOGICA.csproj.CopyComplete
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\obj\Debug\netstandard2.0\LOGICA.dll
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\LOGICA\obj\Debug\netstandard2.0\LOGICA.pdb
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\bin\Debug\netstandard2.0\LOGICA.deps.json
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\bin\Debug\netstandard2.0\LOGICA.dll
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\bin\Debug\netstandard2.0\LOGICA.pdb
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\obj\Debug\netstandard2.0\LOGICA.csprojAssemblyReference.cache
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\obj\Debug\netstandard2.0\LOGICA.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\obj\Debug\netstandard2.0\LOGICA.AssemblyInfo.cs
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\obj\Debug\netstandard2.0\LOGICA.csproj.CopyComplete
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\obj\Debug\netstandard2.0\LOGICA.dll
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\LOGICA\obj\Debug\netstandard2.0\LOGICA.pdb

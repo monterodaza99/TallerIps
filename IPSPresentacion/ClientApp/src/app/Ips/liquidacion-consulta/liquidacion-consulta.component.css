@@ -1,0 +1,12 @@
+.contenedor{
+    padding:20px;
+    width: 950px;
+    background-color:  rgb(145, 135, 135);
+}
+th{
+    color: rgb(145, 135, 135);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+td{
+    color: gray;
+}

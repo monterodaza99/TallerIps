@@ -1,0 +1,24 @@
+<div class="contenedor">
+<table class="table" *ngIf='liquidaciones && liquidaciones.length'>
+    <thead>
+        <tr>
+            <th scope="col">N°</th>
+            <th scope="col">Identificación</th>
+            <th scope="col">Valor Hospitalizacion </th>
+            <th scope="col">Tarifa</th>
+            <th scope="col">Salario</th>
+            <th scope="col">Valor Copago</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let liquidacion of liquidaciones; index as i ">
+            <th scope="row">{{ i + 1 }}</th>
+            <td>{{ liquidacion.identificacionPaciente }} </td>
+            <td>{{ liquidacion.valorHospitalizacion }}</td>
+            <td>{{liquidacion.tarifa  }}</td>
+            <td>{{ liquidacion.salario  }}</td>
+            <td>{{ liquidacion.valorCopago  }}</td>
+        </tr>
+    </tbody>
+</table>
+</div>

@@ -1,0 +1,24 @@
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+A:\Escritorio\universidad\programacionWEB programas\IPS mas salud y vida\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JM\Downloads\TallerIps-master\TallerIps-master\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JM\Desktop\Taller-ips-web\Tallerips\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb
